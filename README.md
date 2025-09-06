@@ -25,7 +25,7 @@ I taught myself how to use and format API calls to get relevant data from sites 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**time** – Used for detecting when an API token has expired and needs to be refreshed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**datetime** – Worked with dates and times for input validation, formatting, and calculating ranges(e.g., trip durations).
+&nbsp;&nbsp;&nbsp;&nbsp;**datetime** – Worked with dates and times for input validation, formatting, and calculating ranges (e.g. trip durations).
 
 &nbsp;&nbsp;&nbsp;&nbsp;**tabulate** – Learned to present data in clean, readable tables for a better user experience.
 
@@ -34,7 +34,7 @@ Used try/except blocks to catch invalid input and prompt the user to re-enter co
 Ex: In get_date() and get_duration() functions in FlightInspiration.py.
 
 **Some functionalities related to input handling include...**\
-**(User will be re-prompted in every one of these scenarios)**
+**(User will be re-prompted if they enter invalid answers in any one of these scenarios)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;-User must enter valid numbers (non-negative, greater than 0, not strings), where prompted.
 
