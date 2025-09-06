@@ -43,7 +43,7 @@ Ex: In get_date() and get_duration() functions in FlightInspiration.py.
   
 **In FlightInspiration program only:**
 
-  -When entering a range of dates that specify a window of time-off, the range must be in ascending order.
+&ensp -When entering a range of dates that specify a window of time-off, the range must be in ascending order.
   
   -The duration of a trip cannot exceed the length of the specified window of time-off.
   
