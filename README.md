@@ -66,3 +66,8 @@ Ex: In get_date() and get_duration() functions in FlightInspiration.py.
 
 &nbsp;&nbsp;&nbsp;&nbsp;-The number of held infants must equal the number of adults/seniors.
 
+## Algorithms
+**Levenshtein Distance Algorithm:** \
+Functionality: Handles user typos in city names. If a city is slightly misspelled when entered as an origin, the program suggests possible correct spellings based on a large dataset mapping city names to their codes.
+
+Implementation: I learned about and then implemented my own version of the Levenshtein distance algorithm (in the min_distance() function of FlightInspiration.py) to measure how similar two words are. In the did_you_mean() function, I convert this distance into a similarity score by comparing it against the maximum number of possible operations it takes to go from one word to the other(the length of the longer word). If the score meets or exceeds a threshold ratio (chosen through trial and error), the word is added to the list of suggested alternatives.
