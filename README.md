@@ -48,8 +48,12 @@ In FlightInspiration program only:
 
 In FlightSearch program only:
   -When inputting traveler info, user cannot have more of one type of passenger than the total number of passengers they       selected. Ex: 3 passengers total, user selects 4 adults.
+  
   -Cannot enter 0 for all passenger types.
+  
   -If the sum of each type of passenger is less than the total number of passengers selected by the user, they will be         notified by the program and given the option to modify their traveler info or continue with the data that they already      entered. Must enter either 'con' or 'mod' at this stage.
+  
   -Infants must be accompanied by at least one adult or senior.
+  
   -The number of held infants must equal the number of adults/seniors.
 
