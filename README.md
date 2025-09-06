@@ -15,10 +15,10 @@ There are also two walkthrough files that showcase sample runs of each main prog
 
 # What I learned / Skills I demonstrated in this project
 
-## API usage: 
+### API usage: 
 I taught myself how to use and format API calls to get relevant data from sites like Amadeus for Developers.
 
-## Working with external libraries (json, requests, time, datetime, tabulate):
+### Working with external libraries (json, requests, time, datetime, tabulate):
 **json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files for storage and retrieval (Ex: accessing & updating the airport locations file).
 
 **requests** – Gained experience making HTTP requests to external APIs, handling parameters, headers, and parsing           responses.
