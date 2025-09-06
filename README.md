@@ -29,3 +29,27 @@ I taught myself how to use and format API calls to get relevant data from sites 
 
 **tabulate** – Learned to present data in clean, readable tables for a better user experience.
 
+### Input Handling:
+Used try/except blocks to catch invalid input and prompt the user to re-enter correct information before continuing.
+Ex: In get_date() and get_duration() functions in FlightInspiration.py.
+
+Some functionalities related to input handling include...
+
+  -User must enter valid numbers (non-negative, greater than 0, not strings), where prompted.
+  -User must enter dates in the following format, YYYY-MM-DD.
+  -User must enter a date that is later than the present date.
+  
+In FlightInspiration program only:
+  -When entering a range of dates that specify a window of time-off, the range must be in ascending order.
+  -The duration of a trip cannot exceed the length of the specified window of time-off.
+  -Must enter at least one city of origin to fly from. Cannot immediately type done when entering origin cities.
+  -Notifies the user if they try and enter the same origin city twice and does not let them.
+  -When choosing a flight option number from the list of possible flight destinations, user cannot select a number that is     not among the list.
+
+In FlightSearch program only:
+  -When inputting traveler info, user cannot have more of one type of passenger than the total number of passengers they       selected. Ex: 3 passengers total, user selects 4 adults.
+  -Cannot enter 0 for all passenger types.
+  -If the sum of each type of passenger is less than the total number of passengers selected by the user, they will be         notified by the program and given the option to modify their traveler info or continue with the data that they already      entered. Must enter either 'con' or 'mod' at this stage.
+  -Infants must be accompanied by at least one adult or senior.
+  -The number of held infants must equal the number of adults/seniors.
+
