@@ -19,13 +19,13 @@ There are also two walkthrough files that showcase sample runs of each main prog
 I taught myself how to use and format API calls to get relevant data from sites like Amadeus for Developers.
 
 ### Working with external libraries (json, requests, time, datetime, tabulate):
-&nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from &nbsp;&nbsp;&nbsp;&nbsp;external files for storage and retrieval (Ex: accessing & updating the airport locations file).
+&nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files for storage and retrieval (Ex: accessing & updating the airport locations file).
 
-&nbsp;&nbsp;&nbsp;&nbsp;**requests** – Gained experience making HTTP requests to external APIs, handling parameters, &nbsp;&nbsp;&nbsp;&nbsp;headers, and parsing responses.
+&nbsp;&nbsp;&nbsp;&nbsp;**requests** – Gained experience making HTTP requests to external APIs, handling parameters, headers, and parsing responses.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**time** – Used for detecting when an API token has expired and needs to be refreshed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**datetime** – Worked with dates and times for input validation, formatting, and calculating ranges &nbsp;&nbsp;&nbsp;&nbsp;(e.g., trip durations).
+&nbsp;&nbsp;&nbsp;&nbsp;**datetime** – Worked with dates and times for input validation, formatting, and calculating ranges(e.g., trip durations).
 
 &nbsp;&nbsp;&nbsp;&nbsp;**tabulate** – Learned to present data in clean, readable tables for a better user experience.
 
@@ -35,33 +35,33 @@ Ex: In get_date() and get_duration() functions in FlightInspiration.py.
 
 **Some functionalities related to input handling include...**
 
-  &nbsp;&nbsp;&nbsp;&nbsp;-User must enter valid numbers (non-negative, greater than 0, not strings), where prompted.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-User must enter dates in the following format, YYYY-MM-DD.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-User must enter a date that is later than the present date.
+&nbsp;&nbsp;&nbsp;&nbsp;-User must enter valid numbers (non-negative, greater than 0, not strings), where prompted.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-User must enter dates in the following format, YYYY-MM-DD.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-User must enter a date that is later than the present date.
   
 **In FlightInspiration program only:**
 
-  &nbsp;&nbsp;&nbsp;&nbsp;-When entering a range of dates that specify a window of time-off, the range must be in ascending   &nbsp;&nbsp;&nbsp;&nbsp;order.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-The duration of a trip cannot exceed the length of the specified window of time-off.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-Must enter at least one city of origin to fly from. Cannot immediately type done when entering     &nbsp;&nbsp;&nbsp;&nbsp;origin cities.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-Notifies the user if they try and enter the same origin city twice and does not let them.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-When choosing a flight option number from the list of possible flight destinations, user cannot &nbsp;&nbsp;&nbsp;&nbsp;select a number that is not among the list.
+&nbsp;&nbsp;&nbsp;&nbsp;-When entering a range of dates that specify a window of time-off, the range must be in ascending order.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-The duration of a trip cannot exceed the length of the specified window of time-off.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-Must enter at least one city of origin to fly from. Cannot immediately type done when entering   origin cities.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-Notifies the user if they try and enter the same origin city twice and does not let them.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-When choosing a flight option number from the list of possible flight destinations, user cannot select a number that is not among the list.
 
 **In FlightSearch program only:**
 
-  &nbsp;&nbsp;&nbsp;&nbsp;-When inputting traveler info, user cannot have more of one type of passenger than the total        &nbsp;&nbsp;&nbsp;&nbsp;number of passengers they selected. Ex: 3 passengers total, user selects 4 adults.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-Cannot enter 0 for all passenger types.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-If the sum of each type of passenger is less than the total number of passengers selected by the   &nbsp;&nbsp;&nbsp;&nbsp;user, they will be notified by the program and given the option to modify their traveler            &nbsp;&nbsp;&nbsp;&nbsp;info or continue with the data that they already entered. Must enter either 'con' or 'mod' at       &nbsp;&nbsp;&nbsp;&nbsp;this stage.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-Infants must be accompanied by at least one adult or senior.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;-The number of held infants must equal the number of adults/seniors.
+&nbsp;&nbsp;&nbsp;&nbsp;-When inputting traveler info, user cannot have more of one type of passenger than the total       number of passengers they selected. Ex: 3 passengers total, user selects 4 adults.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-Cannot enter 0 for all passenger types.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-If the sum of each type of passenger is less than the total number of passengers selected by the  user, they will be notified by the program and given the option to modify their traveler info or continue with the data that they already entered. Must enter either 'con' or 'mod' at this stage.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-Infants must be accompanied by at least one adult or senior.
+
+&nbsp;&nbsp;&nbsp;&nbsp;-The number of held infants must equal the number of adults/seniors.
 
