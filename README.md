@@ -34,6 +34,7 @@ Used try/except blocks to catch invalid input and prompt the user to re-enter co
 Ex: In get_date() and get_duration() functions in FlightInspiration.py.
 
 **Some functionalities related to input handling include...**
+
 (User will be re-prompted in every one of these scenarios)
 
 &nbsp;&nbsp;&nbsp;&nbsp;-User must enter valid numbers (non-negative, greater than 0, not strings), where prompted.
