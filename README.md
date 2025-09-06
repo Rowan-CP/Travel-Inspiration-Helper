@@ -19,7 +19,7 @@ There are also two walkthrough files that showcase sample runs of each main prog
 I taught myself how to use and format API calls to get relevant data from sites like Amadeus for Developers.
 
 ### Working with external libraries (json, requests, time, datetime, tabulate):
-&nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files for storage and retrieval (Ex: accessing & updating the airport locations file).
+&nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files for storage and retrieval (Ex: &nbsp;&nbsp;&nbsp;&nbsp;accessing & updating the airport locations file).
 
 &nbsp;&nbsp;&nbsp;&nbsp;**requests** – Gained experience making HTTP requests to external APIs, handling parameters, headers, and parsing responses.
 
@@ -56,11 +56,11 @@ Ex: In get_date() and get_duration() functions in FlightInspiration.py.
 
 **In FlightSearch program only:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;-When inputting traveler info, user cannot have more of one type of passenger than the total       number of passengers they selected. Ex: 3 &nbsp;&nbsp;&nbsp;&nbsp;passengers total, user selects 4 adults.
+&nbsp;&nbsp;&nbsp;&nbsp;-When inputting traveler info, user cannot have more of one type of passenger than the total number of passengers they selected. Ex: 3 &nbsp;&nbsp;&nbsp;&nbsp;passengers total, user selects 4 adults.
 
 &nbsp;&nbsp;&nbsp;&nbsp;-Cannot enter 0 for all passenger types.
 
-&nbsp;&nbsp;&nbsp;&nbsp;-If the sum of each type of passenger is less than the total number of passengers selected by the  user, they will be notified by the program and given the option to modify their traveler info or continue with the data that they already entered. Must enter either 'con' or 'mod' at this stage.
+&nbsp;&nbsp;&nbsp;&nbsp;-If the sum of each type of passenger is less than the total number of passengers selected by the  user, they will be notified by the program and &nbsp;&nbsp;&nbsp;&nbsp;given the option to modify their traveler info or continue with the data that they already entered. Must enter either 'con' or 'mod' at this stage.
 
 &nbsp;&nbsp;&nbsp;&nbsp;-Infants must be accompanied by at least one adult or senior.
 
