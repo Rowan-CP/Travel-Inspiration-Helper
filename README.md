@@ -1,9 +1,9 @@
-# Travel-Inspiration-Helper
+# Travel Inspiration Helper
 ✈️Find your next dream destination—and the flight to take you there!
 
 This project comes with two main programs:
 
-Travel Inspiration Helper – A tool for when you've got the travel bug and some vacation time, but you’re not sure where to go. It takes some basic input from the user, suggests a list of possible destinations, lets you pick one, and then pulls up flights to that location.
+Flight Inspiration – A tool for when you've got the travel bug and some vacation time, but you’re not sure where to go. It takes some basic input from the user, suggests a list of possible destinations, lets you pick one, and then pulls up flights to that location.
 
 Flight Search – A more focused search tool. Here, you provide specific details (like origin & destination airports, dates, and passenger info), and it returns all the flights that match your criteria — kind of like a simplified version of Google Flights!
 
