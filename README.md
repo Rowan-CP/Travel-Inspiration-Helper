@@ -56,7 +56,7 @@ Ex: In get_date() and get_duration() functions in FlightInspiration.py.
 
 **In FlightSearch program only:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;-When inputting traveler info, user cannot have more of one type of passenger than the total       number of passengers they selected. Ex: 3 passengers total, user selects 4 adults.
+&nbsp;&nbsp;&nbsp;&nbsp;-When inputting traveler info, user cannot have more of one type of passenger than the total       number of passengers they selected. Ex: 3\ passengers total, user selects 4 adults.
 
 &nbsp;&nbsp;&nbsp;&nbsp;-Cannot enter 0 for all passenger types.
 
