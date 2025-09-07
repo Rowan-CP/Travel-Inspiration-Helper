@@ -25,13 +25,13 @@ Implemented a class in ApiCalls.py that encapsulates all flight API interactions
 Organized the project into four modules with clear separation of concerns: two main programs for user interface, one for API integration and parsing, and one for formatting data into user-friendly output.
 
 ## Working with external libraries (json, requests, time, datetime, tabulate):
-&nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files&nbsp;&nbsp;&nbsp;&nbsp;for storage and retrieval (Ex: accessing & updating the airport locations file).
+&nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files for storage and retrieval (Ex: accessing & updating the airport locations file).
 
-&nbsp;&nbsp;&nbsp;&nbsp;**requests** – Gained experience making HTTP requests to external APIs, handling parameters, headers,&nbsp;&nbsp;&nbsp;&nbsp;and parsing responses.
+&nbsp;&nbsp;&nbsp;&nbsp;**requests** – Gained experience making HTTP requests to external APIs, handling parameters, headers, and parsing responses.
 
 &nbsp;&nbsp;&nbsp;&nbsp;**time** – Used for detecting when an API token has expired and needs to be refreshed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**datetime** – Worked with dates and times for input validation, formatting, and calculating ranges (e.g. trip&nbsp;&nbsp;&nbsp;&nbsp;durations).
+&nbsp;&nbsp;&nbsp;&nbsp;**datetime** – Worked with dates and times for input validation, formatting, and calculating ranges (e.g. trip durations).
 
 &nbsp;&nbsp;&nbsp;&nbsp;**tabulate** – Learned to present data in clean, readable tables for a better user experience.
 
