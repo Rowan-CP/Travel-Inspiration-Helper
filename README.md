@@ -22,7 +22,7 @@ Taught myself how to use and format API calls to get relevant data from sites li
 Implemented a class in ApiCalls.py that encapsulates all flight API interactions — formatting & making requests, error handling, token fetching & refreshing, and response parsing — improving reusability and maintainability.
 
 ## Modular programming:
-Organized the project into four modules with clear separation of concerns: two main programs with user interface, one for API integration and parsing, and one for formatting data into user-friendly output.
+Organized the project into four modules with clear separation of concerns: two main programs for user interface, one for API integration and parsing, and one for formatting data into user-friendly output.
 
 ## Working with external libraries (json, requests, time, datetime, tabulate):
 &nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files for storage and retrieval (Ex: &nbsp;&nbsp;&nbsp;&nbsp;accessing & updating the airport locations file).
