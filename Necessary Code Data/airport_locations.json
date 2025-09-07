@@ -1,0 +1,798 @@
+{
+  "LHR": {
+    "city_name": "London",
+    "country_name": "United kingdom"
+  },
+  "JFK": {
+    "city_name": "New York",
+    "country_name": "United states of america"
+  },
+  "CDG": {
+    "city_name": "Paris",
+    "country_name": "France"
+  },
+  "DXB": {
+    "city_name": "Dubai",
+    "country_name": "United arab emirates"
+  },
+  "HND": {
+    "city_name": "Tokyo",
+    "country_name": "Japan"
+  },
+  "SIN": {
+    "city_name": "Singapore",
+    "country_name": "Singapore"
+  },
+  "SYD": {
+    "city_name": "Sydney",
+    "country_name": "Australia"
+  },
+  "FRA": {
+    "city_name": "Frankfurt",
+    "country_name": "Germany"
+  },
+  "AMS": {
+    "city_name": "Amsterdam",
+    "country_name": "Netherlands"
+  },
+  "MAD": {
+    "city_name": "Madrid",
+    "country_name": "Spain"
+  },
+  "BCN": {
+    "city_name": "Barcelona",
+    "country_name": "Spain"
+  },
+  "IST": {
+    "city_name": "Istanbul",
+    "country_name": "Turkey"
+  },
+  "GRU": {
+    "city_name": "Sao Paulo",
+    "country_name": "Brazil"
+  },
+  "EZE": {
+    "city_name": "Buenos Aires",
+    "country_name": "Argentina"
+  },
+  "JNB": {
+    "city_name": "Johannesburg",
+    "country_name": "South africa"
+  },
+  "CPT": {
+    "city_name": "Cape Town",
+    "country_name": "South africa"
+  },
+  "LAX": {
+    "city_name": "Los Angeles",
+    "country_name": "United states of america"
+  },
+  "SFO": {
+    "city_name": "San Francisco",
+    "country_name": "United states of america"
+  },
+  "YYZ": {
+    "city_name": "Toronto",
+    "country_name": "Canada"
+  },
+  "YVR": {
+    "city_name": "Vancouver",
+    "country_name": "Canada"
+  },
+  "YUL": {
+    "city_name": "Montreal",
+    "country_name": "Canada"
+  },
+  "YOW": {
+    "city_name": "Ottawa",
+    "country_name": "Canada"
+  },
+  "MEX": {
+    "city_name": "Mexico City",
+    "country_name": "Mexico"
+  },
+  "BOG": {
+    "city_name": "Bogota",
+    "country_name": "Colombia"
+  },
+  "LIM": {
+    "city_name": "Lima",
+    "country_name": "Peru"
+  },
+  "SCL": {
+    "city_name": "Santiago",
+    "country_name": "Chile"
+  },
+  "MIA": {
+    "city_name": "Miami",
+    "country_name": "United states of america"
+  },
+  "ORD": {
+    "city_name": "Chicago",
+    "country_name": "United states of america"
+  },
+  "DFW": {
+    "city_name": "Dallas",
+    "country_name": "United states of america"
+  },
+  "SEA": {
+    "city_name": "Seattle",
+    "country_name": "United states of america"
+  },
+  "SYR": {
+    "city_name": "Syracuse",
+    "country_name": "United states of america"
+  },
+  "ANC": {
+    "city_name": "Anchorage",
+    "country_name": "United states of america"
+  },
+  "BKK": {
+    "city_name": "Bangkok",
+    "country_name": "Thailand"
+  },
+  "KUL": {
+    "city_name": "Kuala Lumpur",
+    "country_name": "Malaysia"
+  },
+  "ICN": {
+    "city_name": "Seoul",
+    "country_name": "South korea"
+  },
+  "DEL": {
+    "city_name": "Delhi",
+    "country_name": "India"
+  },
+  "BOM": {
+    "city_name": "Mumbai",
+    "country_name": "India"
+  },
+  "HKG": {
+    "city_name": "Hong Kong",
+    "country_name": "Hong kong sar, China"
+  },
+  "SHA": {
+    "city_name": "Shanghai",
+    "country_name": "China"
+  },
+  "PEK": {
+    "city_name": "Beijing",
+    "country_name": "China"
+  },
+  "TPE": {
+    "city_name": "Taipei",
+    "country_name": "Taiwan"
+  },
+  "DPS": {
+    "city_name": "Bali",
+    "country_name": "Indonesia"
+  },
+  "MNL": {
+    "city_name": "Manila",
+    "country_name": "Philippines"
+  },
+  "DOH": {
+    "city_name": "Doha",
+    "country_name": "Qatar"
+  },
+  "JED": {
+    "city_name": "Jeddah",
+    "country_name": "Saudi arabia"
+  },
+  "RUH": {
+    "city_name": "Riyadh",
+    "country_name": "Saudi arabia"
+  },
+  "CAI": {
+    "city_name": "Cairo",
+    "country_name": "Egypt"
+  },
+  "CMN": {
+    "city_name": "Casablanca",
+    "country_name": "Morocco"
+  },
+  "TUN": {
+    "city_name": "Tunis",
+    "country_name": "Tunisia"
+  },
+  "ALG": {
+    "city_name": "Algiers",
+    "country_name": "Algeria"
+  },
+  "REK": {
+    "city_name": "Reykjavik",
+    "country_name": "Iceland"
+  },
+  "DUB": {
+    "city_name": "Dublin",
+    "country_name": "Ireland"
+  },
+  "VIE": {
+    "city_name": "Vienna",
+    "country_name": "Austria"
+  },
+  "ZRH": {
+    "city_name": "Zurich",
+    "country_name": "Switzerland"
+  },
+  "GVA": {
+    "city_name": "Geneva",
+    "country_name": "Switzerland"
+  },
+  "OSL": {
+    "city_name": "Oslo",
+    "country_name": "Norway"
+  },
+  "ARN": {
+    "city_name": "Stockholm",
+    "country_name": "Sweden"
+  },
+  "CPH": {
+    "city_name": "Copenhagen",
+    "country_name": "Denmark"
+  },
+  "HEL": {
+    "city_name": "Helsinki",
+    "country_name": "Finland"
+  },
+  "LIS": {
+    "city_name": "Lisbon",
+    "country_name": "Portugal"
+  },
+  "PRG": {
+    "city_name": "Prague",
+    "country_name": "Czech republic"
+  },
+  "BUD": {
+    "city_name": "Budapest",
+    "country_name": "Hungary"
+  },
+  "WAW": {
+    "city_name": "Warsaw",
+    "country_name": "Poland"
+  },
+  "BEG": {
+    "city_name": "Belgrade",
+    "country_name": "Serbia"
+  },
+  "ZAG": {
+    "city_name": "Zagreb",
+    "country_name": "Croatia"
+  },
+  "SOF": {
+    "city_name": "Sofia",
+    "country_name": "Bulgaria"
+  },
+  "OTP": {
+    "city_name": "Bucharest",
+    "country_name": "Romania"
+  },
+  "SKG": {
+    "city_name": "Thessaloniki",
+    "country_name": "Greece"
+  },
+  "ATH": {
+    "city_name": "Athens",
+    "country_name": "Greece"
+  },
+  "PHX": {
+    "city_name": "Phoenix",
+    "country_name": "United states of america"
+  },
+  "MSP": {
+    "city_name": "Minneapolis",
+    "country_name": "United states of america"
+  },
+  "DEN": {
+    "city_name": "Denver",
+    "country_name": "United states of america"
+  },
+  "BOS": {
+    "city_name": "Boston",
+    "country_name": "United states of america"
+  },
+  "ATL": {
+    "city_name": "Atlanta",
+    "country_name": "United states of america"
+  },
+  "CLT": {
+    "city_name": "Charlotte",
+    "country_name": "United states of america"
+  },
+  "PHL": {
+    "city_name": "Philadelphia",
+    "country_name": "United states of america"
+  },
+  "LAS": {
+    "city_name": "Las Vegas",
+    "country_name": "United states of america"
+  },
+  "HNL": {
+    "city_name": "Honolulu",
+    "country_name": "United states of america"
+  },
+  "KIX": {
+    "city_name": "Osaka",
+    "country_name": "Japan"
+  },
+  "NRT": {
+    "city_name": "Narita",
+    "country_name": "Japan"
+  },
+  "SGN": {
+    "city_name": "Ho Chi Minh City",
+    "country_name": "Vietnam"
+  },
+  "HAN": {
+    "city_name": "Hanoi",
+    "country_name": "Vietnam"
+  },
+  "CGK": {
+    "city_name": "Jakarta",
+    "country_name": "Indonesia"
+  },
+  "UIO": {
+    "city_name": "Quito",
+    "country_name": "Ecuador"
+  },
+  "GIG": {
+    "city_name": "Rio de Janeiro",
+    "country_name": "Brazil"
+  },
+  "ADD": {
+    "city_name": "Addis Ababa",
+    "country_name": "Ethiopia"
+  },
+  "ACC": {
+    "city_name": "Accra",
+    "country_name": "Ghana"
+  },
+  "LOS": {
+    "city_name": "Lagos",
+    "country_name": "Nigeria"
+  },
+  "AKL": {
+    "city_name": "Auckland",
+    "country_name": "New zealand"
+  },
+  "MEL": {
+    "city_name": "Melbourne",
+    "country_name": "Australia"
+  },
+  "BNE": {
+    "city_name": "Brisbane",
+    "country_name": "Australia"
+  },
+  "BRU": {
+    "city_name": "Brussels",
+    "country_name": "Belgium"
+  },
+  "MXP": {
+    "city_name": "Milan",
+    "country_name": "Italy"
+  },
+  "FCO": {
+    "city_name": "Rome",
+    "country_name": "Italy"
+  },
+  "KRK": {
+    "city_name": "Krakow",
+    "country_name": "Poland"
+  },
+  "RIX": {
+    "city_name": "Riga",
+    "country_name": "Latvia"
+  },
+  "TLL": {
+    "city_name": "Tallinn",
+    "country_name": "Estonia"
+  },
+  "VNO": {
+    "city_name": "Vilnius",
+    "country_name": "Lithuania"
+  },
+  "RMO": {
+    "city_name": "Constanta",
+    "country_name": "Romania"
+  },
+  "CAN": {
+    "city_name": "Guangzhou",
+    "country_name": "China"
+  },
+  "PMI": {
+    "city_name": "Palma de mallorca",
+    "country_name": "Spain"
+  },
+  "LPA": {
+    "city_name": "Gran canaria",
+    "country_name": "Spain"
+  },
+  "ZYR": {
+    "city_name": "Zyryanka",
+    "country_name": "Russia"
+  },
+  "ORN": {
+    "city_name": "Oran",
+    "country_name": "Algeria"
+  },
+  "LIN": {
+    "city_name": "Milan",
+    "country_name": "Italy"
+  },
+  "OPO": {
+    "city_name": "Porto",
+    "country_name": "Portugal"
+  },
+  "BJA": {
+    "city_name": "Bejaia",
+    "country_name": "Algeria"
+  },
+  "MLA": {
+    "city_name": "Malta",
+    "country_name": "Malta"
+  },
+  "TNG": {
+    "city_name": "Tangier",
+    "country_name": "Morocco"
+  },
+  "MAH": {
+    "city_name": "Mumbai",
+    "country_name": "India"
+  },
+  "OUD": {
+    "city_name": "Oujda",
+    "country_name": "Morocco"
+  },
+  "MIR": {
+    "city_name": "Miri",
+    "country_name": "Malaysia"
+  },
+  "BIA": {
+    "city_name": "Bastia",
+    "country_name": "France"
+  },
+  "BER": {
+    "city_name": "Berlin",
+    "country_name": "Germany"
+  },
+  "MAN": {
+    "city_name": "Manila",
+    "country_name": "Philippines"
+  },
+  "DJE": {
+    "city_name": "Djerba",
+    "country_name": "Tunisia"
+  },
+  "BLQ": {
+    "city_name": "Bologna",
+    "country_name": "Italy"
+  },
+  "FEZ": {
+    "city_name": "Fes",
+    "country_name": "Morocco"
+  },
+  "AJA": {
+    "city_name": "Ajaccio",
+    "country_name": "France"
+  },
+  "VCE": {
+    "city_name": "Venice",
+    "country_name": "Italy"
+  },
+  "EDI": {
+    "city_name": "Edinburgh",
+    "country_name": "United kingdom"
+  },
+  "BHX": {
+    "city_name": "Birmingham",
+    "country_name": "United kingdom"
+  },
+  "RAK": {
+    "city_name": "Marrakech",
+    "country_name": "Morocco"
+  },
+  "RBA": {
+    "city_name": "Rabat",
+    "country_name": "Morocco"
+  },
+  "LYS": {
+    "city_name": "Lyon",
+    "country_name": "France"
+  },
+  "DUS": {
+    "city_name": "Duesseldorf",
+    "country_name": "Germany"
+  },
+  "BOD": {
+    "city_name": "Bordeaux",
+    "country_name": "France"
+  },
+  "SVQ": {
+    "city_name": "Sevilla",
+    "country_name": "Spain"
+  },
+  "AGA": {
+    "city_name": "Agadez",
+    "country_name": "Niger"
+  },
+  "MRS": {
+    "city_name": "Marseille",
+    "country_name": "France"
+  },
+  "HER": {
+    "city_name": "Irakleion",
+    "country_name": "Greece"
+  },
+  "TLS": {
+    "city_name": "Toulouse",
+    "country_name": "France"
+  },
+  "CLY": {
+    "city_name": "Clyde river",
+    "country_name": "Canada"
+  },
+  "NCE": {
+    "city_name": "Nice",
+    "country_name": "France"
+  },
+  "MPL": {
+    "city_name": "Montpellier",
+    "country_name": "France"
+  },
+  "GOT": {
+    "city_name": "Goteborg",
+    "country_name": "Sweden"
+  },
+  "MUC": {
+    "city_name": "Munich",
+    "country_name": "Germany"
+  },
+  "TLM": {
+    "city_name": "Tlemcen",
+    "country_name": "Algeria"
+  },
+  "FSC": {
+    "city_name": "Figari",
+    "country_name": "France"
+  },
+  "OLB": {
+    "city_name": "Olbia",
+    "country_name": "Italy"
+  },
+  "BIQ": {
+    "city_name": "Biarritz",
+    "country_name": "France"
+  },
+  "AYT": {
+    "city_name": "Antalya",
+    "country_name": "Turkiye"
+  },
+  "KEF": {
+    "city_name": "Reykjavik",
+    "country_name": "Iceland"
+  },
+  "SAW": {
+    "city_name": "Istanbul",
+    "country_name": "Turkiye"
+  },
+  "AMM": {
+    "city_name": "Amman",
+    "country_name": "Jordan"
+  },
+  "PDL": {
+    "city_name": "Ponta delgada",
+    "country_name": "Portugal"
+  },
+  "YYC": {
+    "city_name": "Calgary",
+    "country_name": "Canada"
+  },
+  "AUH": {
+    "city_name": "Abu dhabi",
+    "country_name": "United arab emirates"
+  },
+  "EWR": {
+    "city_name": "New york",
+    "country_name": "United states of america"
+  },
+  "BAH": {
+    "city_name": "Bahrain",
+    "country_name": "Bahrain"
+  },
+  "GYD": {
+    "city_name": "Baku",
+    "country_name": "Azerbaijan"
+  },
+  "CKG": {
+    "city_name": "Chongqing",
+    "country_name": "China"
+  },
+  "PVG": {
+    "city_name": "Shanghai",
+    "country_name": "China"
+  },
+  "KGL": {
+    "city_name": "Kigali",
+    "country_name": "Rwanda"
+  },
+  "MCT": {
+    "city_name": "Muscat",
+    "country_name": "Oman"
+  },
+  "XMN": {
+    "city_name": "Xiamen",
+    "country_name": "China"
+  },
+  "FDF": {
+    "city_name": "Fort de france",
+    "country_name": "Martinique"
+  },
+  "PTP": {
+    "city_name": "Pointe-a-pitre",
+    "country_name": "Guadeloupe"
+  },
+  "RUN": {
+    "city_name": "St denis",
+    "country_name": "Reunion"
+  },
+  "IAD": {
+    "city_name": "Washington",
+    "country_name": "United states of america"
+  },
+  "PPT": {
+    "city_name": "Tahiti",
+    "country_name": "French polynesia"
+  },
+  "SCQ": {
+    "city_name": "Santiago de compostela",
+    "country_name": "Spain"
+  },
+  "ORY": {
+    "city_name": "Paris",
+    "country_name": "France"
+  },
+  "BIO": {
+    "city_name": "Bilbao",
+    "country_name": "Spain"
+  },
+  "NAP": {
+    "city_name": "Naples",
+    "country_name": "Italy"
+  },
+  "FLR": {
+    "city_name": "Florence",
+    "country_name": "Italy"
+  },
+  "BVA": {
+    "city_name": "Paris",
+    "country_name": "France"
+  },
+  "JMK": {
+    "city_name": "Mykonos",
+    "country_name": "Greece"
+  },
+  "DSS": {
+    "city_name": "Dakar",
+    "country_name": "Senegal"
+  },
+  "TAS": {
+    "city_name": "Tashkent",
+    "country_name": "Uzbekistan"
+  },
+  "YQB": {
+    "city_name": "Quebec",
+    "country_name": "Canada"
+  },
+  "IBZ": {
+    "city_name": "Ibiza",
+    "country_name": "Spain"
+  },
+  "SPU": {
+    "city_name": "Split",
+    "country_name": "Croatia"
+  },
+  "LCA": {
+    "city_name": "Larnaca",
+    "country_name": "Cyprus"
+  },
+  "FUE": {
+    "city_name": "Fuerteventura",
+    "country_name": "Spain"
+  },
+  "YHZ": {
+    "city_name": "Halifax",
+    "country_name": "Canada"
+  },
+  "HAM": {
+    "city_name": "Doha",
+    "country_name": "Qatar"
+  },
+  "AGP": {
+    "city_name": "Malaga",
+    "country_name": "Spain"
+  },
+  "DBV": {
+    "city_name": "Dubrovnik",
+    "country_name": "Croatia"
+  },
+  "ADB": {
+    "city_name": "Izmir",
+    "country_name": "Turkiye"
+  },
+  "RAI": {
+    "city_name": "Denpasar-bali",
+    "country_name": "Indonesia"
+  },
+  "LUX": {
+    "city_name": "Luxembourg",
+    "country_name": "Luxembourg"
+  },
+  "XIY": {
+    "city_name": "Xi an",
+    "country_name": "China"
+  },
+  "MRU": {
+    "city_name": "Mauritius",
+    "country_name": "Mauritius"
+  },
+  "TNR": {
+    "city_name": "Antananarivo",
+    "country_name": "Madagascar"
+  },
+  "VCP": {
+    "city_name": "Sao paulo",
+    "country_name": "Brazil"
+  },
+  "VGO": {
+    "city_name": "Vigo",
+    "country_name": "Spain"
+  },
+  "LCG": {
+    "city_name": "A coruna",
+    "country_name": "Spain"
+  },
+  "TFN": {
+    "city_name": "Tenerife",
+    "country_name": "Spain"
+  },
+  "ACE": {
+    "city_name": "Lanzarote",
+    "country_name": "Spain"
+  },
+  "WNZ": {
+    "city_name": "Wenzhou",
+    "country_name": "China"
+  },
+  "TFU": {
+    "city_name": "Chengdu",
+    "country_name": "China"
+  },
+  "PUJ": {
+    "city_name": "Punta cana",
+    "country_name": "Dominican republic"
+  },
+  "SDQ": {
+    "city_name": "Santo domingo",
+    "country_name": "Dominican republic"
+  },
+  "HAV": {
+    "city_name": "Prague",
+    "country_name": "Czechia"
+  },
+  "GDL": {
+    "city_name": "Guadalajara",
+    "country_name": "Mexico"
+  },
+  "FOR": {
+    "city_name": "Fort myers",
+    "country_name": "United states of america"
+  },
+  "RHO": {
+    "city_name": "Rhodes",
+    "country_name": "Greece"
+  },
+  "LGW": {
+    "city_name": "London",
+    "country_name": "United kingdom"
+  }
+}
