@@ -11,7 +11,7 @@ Flight Search – A more focused search tool. Here, you provide specific details
 
 This project functions by getting flight data, through API calls, from a website called Amadeus for Developers. To do so, it uses API keys that must be kept private. To run this project locally, you would need to replace the API keys at the top of the file called ApiCalls with your own working keys. 
 
-There are also two walkthrough files that showcase sample runs of each main program. These let you see how the programs look and behave in action. No need to set up your own API keys first!
+However, there are also two walkthrough files that showcase sample runs of each main program. These let you see how the programs look and behave in action. No need to set up your own API keys first!
 
 # What I learned / Skills I demonstrated in this project
 
