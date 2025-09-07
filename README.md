@@ -18,10 +18,10 @@ There are also two walkthrough files that showcase sample runs of each main prog
 ## API usage: 
 Taught myself how to use and format API calls to get relevant data from sites like Amadeus for Developers.
 
-## OOP
+## OOP:
 Implemented a class in ApiCalls.py that encapsulates all flight API interactions — formatting & making requests, error handling, token fetching & refreshing, and response parsing — improving reusability and maintainability.
 
-## Modular programming
+## Modular programming:
 Organized the project into four modules with clear separation of concerns: two main programs with user interface, one for API integration and parsing, and one for formatting data into user-friendly output.
 
 ## Working with external libraries (json, requests, time, datetime, tabulate):
@@ -72,7 +72,7 @@ Ex: In get_date() and get_duration() functions in FlightInspiration.py.
 
 &nbsp;&nbsp;&nbsp;&nbsp;-The number of held infants must equal the number of adults/seniors.
 
-## Algorithms
+## Algorithms:
 **Levenshtein Distance Algorithm:** \
 Functionality: Handles user typos in city names. If a city is slightly misspelled when entered as an origin, the program suggests possible correct spellings based on a large dataset mapping city names to their codes.
 
