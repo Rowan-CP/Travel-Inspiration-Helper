@@ -18,6 +18,12 @@ There are also two walkthrough files that showcase sample runs of each main prog
 ## API usage: 
 Taught myself how to use and format API calls to get relevant data from sites like Amadeus for Developers.
 
+## OOP
+Implemented a class in ApiCalls.py that encapsulates all flight API interactions — formatting & making requests, error handling, token fetching & refreshing, and response parsing — improving reusability and maintainability.
+
+## Modular programming
+Organized the project into four modules with clear separation of concerns: two main programs with user interface, one for API integration and parsing, and one for formatting data into user-friendly output.
+
 ## Working with external libraries (json, requests, time, datetime, tabulate):
 &nbsp;&nbsp;&nbsp;&nbsp;**json** – Learned how to structure API request bodies and how to load/dump JSON data to and from external files for storage and retrieval (Ex: &nbsp;&nbsp;&nbsp;&nbsp;accessing & updating the airport locations file).
 
@@ -80,10 +86,3 @@ Implementation: The algorithm works recursively. It starts by selecting the firs
 For sorting based on city, the algorithm also removes duplicates by checking each entry’s destination airport, origin airport, and travel dates. This ensures that the final output contains only unique flights, even if multiple identical results appear in the raw data.
 
 The process continues until the input list is empty, at which point the sorted list is complete.
-
-## OOP
-Implemented a class in ApiCalls.py that encapsulates all flight API interactions — formatting & making requests, error handling, token fetching & refreshing, and response parsing — improving reusability and maintainability.
-
-## Modular programming
-Organized the project into four modules with clear separation of concerns: two main programs with user interface, one for API integration and parsing, and one for formatting data into user-friendly output.
-
