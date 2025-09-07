@@ -81,9 +81,9 @@ For sorting based on city, the algorithm also removes duplicates by checking eac
 
 The process continues until the input list is empty, at which point the sorted list is complete.
 
-**OOP:**\
+## OOP
 Implemented a class in ApiCalls.py that encapsulates all flight API interactions — formatting & making requests, error handling, token fetching & refreshing, and response parsing — improving reusability and maintainability.
 
-**Modular programming:**\
+## Modular programming
 Organized the project into four modules with clear separation of concerns: two main programs with user interface, one for API integration and parsing, and one for formatting data into user-friendly output.
 
